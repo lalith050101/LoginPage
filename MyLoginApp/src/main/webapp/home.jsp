@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<form action="/login" method="post">
+	<form action="login" method="post">
 		<table style="background-color:orange; padding:5px">
 		<tr>
 		<td><h3>Login Page</h3></td>
